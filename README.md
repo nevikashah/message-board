@@ -4,7 +4,7 @@ This is an example application of using D1 in [Cloudflare Pages](https://pages.d
 
 ## Setup
 
-1. Fork this repo
+1. Fork this repo blah
 2. Create a D1 database with `npx wrangler d1 create message-board`
 3. Run the migrations with `npx wrangler d1 migrations apply message-board`
 4. Go to the Cloudflare dashboard and create a Pages project pointing to the repository - https://dash.cloudflare.com?to=/:account/pages/new
