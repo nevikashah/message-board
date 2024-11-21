@@ -1,6 +1,6 @@
 # Message board
 
-This is an example application of using D1 in [Cloudflare Pages](https://pages.dev).
+This is an example app of using D1 in [Cloudflare Pages](https://pages.dev).
 
 ## Setup
 
